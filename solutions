@@ -5,3 +5,6 @@
 
 ->>2)Validated `su` password in python accepted by user.......    
      https://stackoverflow.com/questions/52899006/validated-su-password-in-python-accepted-by-user
+     
+->>3)setup tool install for python3
+     pip3 install -U pip setuptools 
