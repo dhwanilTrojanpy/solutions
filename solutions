@@ -8,3 +8,13 @@
      
 ->>3)setup tool install for python3
      pip3 install -U pip setuptools 
+
+->> Converted into bionic repos ubuntu
+     /etc/apt/sources.list
+      
+deb http://archive.ubuntu.com/ubuntu bionic multiverse
+deb http://archive.ubuntu.com/ubuntu bionic-security multiverse
+deb http://archive.ubuntu.com/ubuntu bionic-updates multiverse
+deb http://archive.ubuntu.com/ubuntu bionic universe
+deb http://archive.ubuntu.com/ubuntu bionic-security universe
+deb http://archive.ubuntu.com/ubuntu bionic-updates universe
